@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reportblogs/static/css/main.de2cfdf4.css",
+    "main.js": "/reportblogs/static/js/main.c8a2053c.js",
+    "static/media/glasso-banner-1.jpg": "/reportblogs/static/media/glasso-banner-1.8a66189cd45d3ae59ccb.jpg",
+    "index.html": "/reportblogs/index.html",
+    "main.de2cfdf4.css.map": "/reportblogs/static/css/main.de2cfdf4.css.map",
+    "main.c8a2053c.js.map": "/reportblogs/static/js/main.c8a2053c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de2cfdf4.css",
+    "static/js/main.c8a2053c.js"
+  ]
+}
