@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div className="App">
-      <Router>
+      <Router basename='/reportblogs'>
        <Header/>
         <Routes>
           <Route path='/' element={<Maindiv />}></Route>
